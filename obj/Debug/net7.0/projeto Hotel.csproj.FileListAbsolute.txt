@@ -1,0 +1,15 @@
+C:\Users\elian\projeto Hotel\bin\Debug\net7.0\projeto Hotel.exe
+C:\Users\elian\projeto Hotel\bin\Debug\net7.0\projeto Hotel.deps.json
+C:\Users\elian\projeto Hotel\bin\Debug\net7.0\projeto Hotel.runtimeconfig.json
+C:\Users\elian\projeto Hotel\bin\Debug\net7.0\projeto Hotel.dll
+C:\Users\elian\projeto Hotel\bin\Debug\net7.0\projeto Hotel.pdb
+C:\Users\elian\projeto Hotel\obj\Debug\net7.0\projeto Hotel.csproj.AssemblyReference.cache
+C:\Users\elian\projeto Hotel\obj\Debug\net7.0\projeto Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\projeto Hotel\obj\Debug\net7.0\projeto Hotel.AssemblyInfoInputs.cache
+C:\Users\elian\projeto Hotel\obj\Debug\net7.0\projeto Hotel.AssemblyInfo.cs
+C:\Users\elian\projeto Hotel\obj\Debug\net7.0\projeto Hotel.csproj.CoreCompileInputs.cache
+C:\Users\elian\projeto Hotel\obj\Debug\net7.0\projeto Hotel.dll
+C:\Users\elian\projeto Hotel\obj\Debug\net7.0\refint\projeto Hotel.dll
+C:\Users\elian\projeto Hotel\obj\Debug\net7.0\projeto Hotel.pdb
+C:\Users\elian\projeto Hotel\obj\Debug\net7.0\projeto Hotel.genruntimeconfig.cache
+C:\Users\elian\projeto Hotel\obj\Debug\net7.0\ref\projeto Hotel.dll
